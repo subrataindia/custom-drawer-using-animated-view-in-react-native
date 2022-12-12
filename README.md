@@ -4,6 +4,5 @@
 
 [promo video](https://www.youtube.com/shorts/CuyJ-va9pvQ)
 
-![](https://github.com/subrataindia/custom-drawer-using-animated-view-in-react-native/blob/main/assets/img/Custom_Drawer_Navigation_Animated_View.gif)
+![](https://firebasestorage.googleapis.com/v0/b/mymasai-school.appspot.com/o/project_files%2FCustom_Drawer_Navigation_Animated_View.gif?alt=media&token=e75cd1e7-473b-427f-8f7e-740ccaa3f5c4)
 
-<img src="https://github.com/subrataindia/custom-drawer-using-animated-view-in-react-native/blob/main/assets/img/Custom_Drawer_Navigation_Animated_View.gif" width="40" height="40" />
