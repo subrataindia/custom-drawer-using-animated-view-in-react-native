@@ -4,7 +4,4 @@
 
 [promo video](https://www.youtube.com/shorts/CuyJ-va9pvQ)
 
-
-
-
-
+![]('./assets/img/Custom_Drawer_Navigation_Animated_View.gif')
