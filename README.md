@@ -4,5 +4,5 @@
 
 [promo video](https://www.youtube.com/shorts/CuyJ-va9pvQ)
 
-![](https://firebasestorage.googleapis.com/v0/b/mymasai-school.appspot.com/o/project_files%2FCustom_Drawer_Navigation_Animated_View.gif?alt=media&token=e75cd1e7-473b-427f-8f7e-740ccaa3f5c4)
+![](https://firebasestorage.googleapis.com/v0/b/mymasai-school.appspot.com/o/project_files%2FCustom_Drawer_Navigation_Animated_View1.gif?alt=media&token=816dcef9-da37-435a-8d2c-8122a3b35f48)
 
